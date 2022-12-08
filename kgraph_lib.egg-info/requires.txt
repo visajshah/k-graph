@@ -2,3 +2,4 @@ networkx
 pandas
 numpy
 scikit-learn
+scipy==1.8.1
